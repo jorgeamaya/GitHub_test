@@ -1,6 +1,7 @@
 # Mini project
 
 *Author: Jorge Eduardo Amaya Romero*
+
 *Purpose: Show how to create a project in GitHub*
 
 ## Numbers_3
