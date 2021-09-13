@@ -4,7 +4,7 @@
 #Date: 14/01/2019
 #Purpose: Write the alphabet
 
-ln -s ~/PRACTICE_DAY8/GitHub_test/Annotation_1/Results/*.txt Data/.
+ln -s ~/turbo-guacamole/private_repository/Jorge/GitHub_test/Annotation_1/Results/*.txt Data/.
 
 cp Data/*.txt Results/.
 
