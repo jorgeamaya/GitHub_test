@@ -18,7 +18,7 @@ Clone me:
 git clone https://github.com/jorgeamaya/GitHub_test.git
 ```
 
-## Insert and image
+## Insert an image
 ![Harvard](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harvard_University_logo.svg/600px-Harvard_University_logo.svg.png)
 
 ## Insert a link
