@@ -4,7 +4,9 @@
 #Date: 14/01/2019
 #Purpose: Write the numbers from 1 to 10
 
-ln -s ~/turbo-guacamole/private_repository/Jorge/GitHub_test/Alphabet_2/Results/*.txt Data/.
+ln -s ${PWD}/../Alphabet_2/Results/*.txt Data/.
+
+pwd
 
 cp Data/*.txt Results/.
 

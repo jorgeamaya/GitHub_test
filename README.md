@@ -4,6 +4,8 @@
 
 * Purpose: Show how to create a project in GitHub*
 
+These simple scripts show to organize a bioinformatics project according to the slides provided in the Materials directory of this repository.
+
 ## Annotation_1
 Write personal data to the file :thumbsup:
 
@@ -13,9 +15,20 @@ Write the alphabet to the file :thumbsup:
 ## Numbers_3
 Write the numbers to the file :thumbsup:
 
-Clone me: 
+## How to run this tutorial
+
+### Clone me: 
 ```
 git clone https://github.com/jorgeamaya/GitHub_test.git
+```
+
+###
+```
+#Clean any previous run if necesary
+./clean.sh
+
+#Run the project
+./master.sh
 ```
 
 ## Insert an image

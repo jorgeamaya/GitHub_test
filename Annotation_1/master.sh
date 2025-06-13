@@ -4,9 +4,11 @@
 #Date: 14/01/2019
 #Purpose: Write personal info
 
-ln -s ~/turbo-guacamole/private_repository/Jorge/DATA_REPOSITORY/*.txt Data/.
+ln -s ${PWD}/../*.txt Data/.
 
-cp Data/*.txt Results/.
+pwd
+
+cp -r ${PWD}/Data/*.txt Results/.
 ./Code/sub_registration.sh
 ./Code/sub_program.sh
 ./Code/sub_practice.sh
