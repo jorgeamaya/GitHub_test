@@ -4,7 +4,7 @@
 
 * Purpose: Show how to create a project in GitHub*
 
-These simple scripts show to organize a bioinformatics project according to the slides provided in the Materials directory of this repository.
+These simple scripts show how to organize a bioinformatics project according to the slides provided in the Materials directory of this repository.
 
 ## Annotation_1
 Write personal data to the file :thumbsup:
