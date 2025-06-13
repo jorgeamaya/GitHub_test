@@ -22,7 +22,7 @@ Write the numbers to the file :thumbsup:
 git clone https://github.com/jorgeamaya/GitHub_test.git
 ```
 
-###
+### Run the scripts
 ```
 #Clean any previous run if necesary
 ./clean.sh
